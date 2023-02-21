@@ -71,3 +71,21 @@ export default App
 
 10. At "flask-server" directory, start host server by using "python server.py"
 11. Inside "client" directory, run "npm start" to start website 
+
+
+-----------------------------------------------------------------------------
+my-app/
+  README.md
+  node_modules/
+  package.json
+  public/
+    index.html
+    favicon.ico
+    manifest.json
+  src/
+    App.js
+    App.css
+    index.js
+    components/
+      ControlPanel.js
+      DiscordWidget.js
